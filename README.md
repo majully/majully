@@ -1,5 +1,5 @@
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/majully/majully/main/code-dev.gif" width="30%"/>
+  <img align="right" src="https://raw.githubusercontent.com/majully/majully/main/code-dev.gif" width="25%"/>
 </div>
 
 ### Olá! Eu sou o ***Wesley Majully*** <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">
