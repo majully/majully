@@ -30,7 +30,6 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-214C66?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img align="center" alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EE4324?style=for-the-badge&logo=codeIgniter&logoColor=white" />
 </div>
 
 <h5>DevOps</h5>
